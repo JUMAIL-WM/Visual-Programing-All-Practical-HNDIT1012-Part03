@@ -1,0 +1,16 @@
+C:\Users\Futuremind\Pictures\New folder\project loops\project loops\bin\Debug\project loops.exe.config
+C:\Users\Futuremind\Pictures\New folder\project loops\project loops\bin\Debug\project loops.exe
+C:\Users\Futuremind\Pictures\New folder\project loops\project loops\bin\Debug\project loops.pdb
+C:\Users\Futuremind\Pictures\New folder\project loops\project loops\obj\Debug\project loops.csproj.AssemblyReference.cache
+C:\Users\Futuremind\Pictures\New folder\project loops\project loops\obj\Debug\project loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Futuremind\Pictures\New folder\project loops\project loops\obj\Debug\project loops.csproj.CoreCompileInputs.cache
+C:\Users\Futuremind\Pictures\New folder\project loops\project loops\obj\Debug\project loops.exe
+C:\Users\Futuremind\Pictures\New folder\project loops\project loops\obj\Debug\project loops.pdb
+C:\Users\Futuremind\Pictures\SMSProject\New folder\project loops\project loops\bin\Debug\project loops.exe.config
+C:\Users\Futuremind\Pictures\SMSProject\New folder\project loops\project loops\bin\Debug\project loops.exe
+C:\Users\Futuremind\Pictures\SMSProject\New folder\project loops\project loops\bin\Debug\project loops.pdb
+C:\Users\Futuremind\Pictures\SMSProject\New folder\project loops\project loops\obj\Debug\project loops.csproj.AssemblyReference.cache
+C:\Users\Futuremind\Pictures\SMSProject\New folder\project loops\project loops\obj\Debug\project loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Futuremind\Pictures\SMSProject\New folder\project loops\project loops\obj\Debug\project loops.csproj.CoreCompileInputs.cache
+C:\Users\Futuremind\Pictures\SMSProject\New folder\project loops\project loops\obj\Debug\project loops.exe
+C:\Users\Futuremind\Pictures\SMSProject\New folder\project loops\project loops\obj\Debug\project loops.pdb

@@ -1,0 +1,23 @@
+C:\Users\Futuremind\Desktop\SMSProject\loop 1\loop 1\bin\Debug\loop 1.exe.config
+C:\Users\Futuremind\Desktop\SMSProject\loop 1\loop 1\bin\Debug\loop 1.exe
+C:\Users\Futuremind\Desktop\SMSProject\loop 1\loop 1\bin\Debug\loop 1.pdb
+C:\Users\Futuremind\Desktop\SMSProject\loop 1\loop 1\obj\Debug\loop 1.csproj.AssemblyReference.cache
+C:\Users\Futuremind\Desktop\SMSProject\loop 1\loop 1\obj\Debug\loop 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Futuremind\Desktop\SMSProject\loop 1\loop 1\obj\Debug\loop 1.csproj.CoreCompileInputs.cache
+C:\Users\Futuremind\Desktop\SMSProject\loop 1\loop 1\obj\Debug\loop 1.exe
+C:\Users\Futuremind\Desktop\SMSProject\loop 1\loop 1\obj\Debug\loop 1.pdb
+C:\Users\Futuremind\Pictures\SMSProject\loop 1\loop 1\bin\Debug\loop 1.exe.config
+C:\Users\Futuremind\Pictures\SMSProject\loop 1\loop 1\bin\Debug\loop 1.exe
+C:\Users\Futuremind\Pictures\SMSProject\loop 1\loop 1\bin\Debug\loop 1.pdb
+C:\Users\Futuremind\Pictures\SMSProject\loop 1\loop 1\obj\Debug\loop 1.csproj.AssemblyReference.cache
+C:\Users\Futuremind\Pictures\SMSProject\loop 1\loop 1\obj\Debug\loop 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Futuremind\Pictures\SMSProject\loop 1\loop 1\obj\Debug\loop 1.csproj.CoreCompileInputs.cache
+C:\Users\Futuremind\Pictures\SMSProject\loop 1\loop 1\obj\Debug\loop 1.exe
+C:\Users\Futuremind\Pictures\SMSProject\loop 1\loop 1\obj\Debug\loop 1.pdb
+D:\1st Year C file\C# practical SLIATE\loop 1\loop 1\bin\Debug\loop 1.exe.config
+D:\1st Year C file\C# practical SLIATE\loop 1\loop 1\bin\Debug\loop 1.exe
+D:\1st Year C file\C# practical SLIATE\loop 1\loop 1\bin\Debug\loop 1.pdb
+D:\1st Year C file\C# practical SLIATE\loop 1\loop 1\obj\Debug\loop 1.csproj.AssemblyReference.cache
+D:\1st Year C file\C# practical SLIATE\loop 1\loop 1\obj\Debug\loop 1.csproj.CoreCompileInputs.cache
+D:\1st Year C file\C# practical SLIATE\loop 1\loop 1\obj\Debug\loop 1.exe
+D:\1st Year C file\C# practical SLIATE\loop 1\loop 1\obj\Debug\loop 1.pdb
